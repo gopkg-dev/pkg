@@ -9,7 +9,7 @@ const (
 	// UnknownCode is unknown code for error info.
 	UnknownCode = 500
 	// UnknownReason is unknown reason for error info.
-	UnknownReason = ""
+	UnknownReason = "UnknownReason"
 )
 
 type Error struct {
